@@ -1,6 +1,8 @@
 # 마라톤 접수 플랫폼 프로젝트
 
-![자신을 나타낼 수 있는 사진]()
+<div style="text-align: center; margin-bottom: 20px;">
+<img src="./images/photo.jpg" width="50%">
+</div>
 
 > 박상미
 
@@ -11,6 +13,7 @@
 마라톤 접수 플랫폼
 
 회원구분(업체, 개인), 대기열 시스템, 무료참가 쿠폰
+
 
 ## 📁 주제 선정 이유
 
